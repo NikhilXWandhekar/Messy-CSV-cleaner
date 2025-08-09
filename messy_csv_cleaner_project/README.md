@@ -26,7 +26,4 @@ This project provides a small utility to clean messy CSV files using **pandas** 
 - `messy_cleaner_demo.ipynb` - notebook demo
 - `requirements.txt` - dependencies
 
-## Extending
-- Add more intelligent type inference
-- Integrate with a web UI or drag-and-drop uploader
-- Add unit tests and CI
+
